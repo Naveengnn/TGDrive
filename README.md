@@ -125,7 +125,7 @@ Access the application at `http://127.0.0.1:8000` or `http://your_ip:8000`.
 
 <div align="center">
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/TechShreyash/TGDrive)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Naveengnn/TGDrive)
 
 </div>
 
